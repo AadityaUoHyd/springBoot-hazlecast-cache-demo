@@ -7,4 +7,4 @@ Next time when we hit same url, we don't get output in console, means its not hi
 
 #Kindly keep in mind for testing purpose, after creation of usersdb by spring-boot, I'd inserted few data in 'user' table of usersdb manually.
 
-#Use url to fetch data from MySQL (DB name : usersdb): http://localhost:9090/cache/api/v1/getAllUsers
+#Use url to fetch data from MySQL (DB name : usersdb) with GET type at Postman API client: http://localhost:9090/cache/api/v1/getAllUsers
